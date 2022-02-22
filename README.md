@@ -2,7 +2,7 @@
 
 DUPLA:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
+- Adney Costa Moura
 - DIGITE O NOME DO SEGUNDO INTEGRANTE
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
