@@ -3,7 +3,7 @@
 DUPLA:
 
 - Adney Costa Moura
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
+- Ricardo Mourão Rodrigues Filho
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
 ## Desafio CSS
