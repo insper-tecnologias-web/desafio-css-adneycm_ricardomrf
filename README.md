@@ -1,10 +1,9 @@
 # Tecnologias Web
 
-TRIO:
+DUPLA:
 
 - Adney Costa Moura
-- Ricardo Mourão Filho
-- Ykaro de Sousa Andrade
+- DIGITE O NOME DO SEGUNDO INTEGRANTE
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
 ## Desafio CSS
