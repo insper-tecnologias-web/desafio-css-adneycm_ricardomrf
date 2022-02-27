@@ -123,7 +123,7 @@ body {
   width: 500px;
   padding-top: 30px;
   box-shadow: 0 0 1em #4c4c4c;
-  border-radius: 1%;
+  border-radius:1%;
 }
 
 .form-card-title {
@@ -154,89 +154,107 @@ body {
 .card {
   border-radius: 10%;
   box-shadow: 0 0 0.5em #4c4c4c;
-  padding: 20px;
-  margin: 15px;
-  width: 140px;
+  padding: 10px;
+  margin: 10px;
+  width: 1%;
   height: 120px;
+}
+
+p {
+  font-family: 'Permanent Marker', cursive;
+  color: #666565;
 }
 
 .card-title {
   font-family: 'Permanent Marker', cursive;
-
+  height: 30px;
 }
 
 .card-content {
+  display: flex;
   font-family: 'Roboto', sans-serif;
+  justify-content: center;
+  align-items: center;
+  margin:auto;
+  height:75%;
 }
-
-
-
-
-
-
-
-
 
 .card-color-1 {
   background-color: #ead3a7;
+  width: 200px;
 }
 
 .card-color-2 {
   background-color: #9de0f5;
+  width: 200px;
 }
 
 .card-color-3 {
   background-color: #ef89ba;
+  width: 200px;
 }
 
 .card-color-4 {
   background-color: #fae890;
+  width: 200px;
 }
 
 .card-color-5 {
   background-color: #abe9c1;
+  width: 200px;
 }
 
 .card-rotation-1 {
   transform: rotate(5deg);
+  width: 200px;
 }
 
 .card-rotation-2 {
   transform: rotate(-5deg);
+  width: 200px;
 }
 
 .card-rotation-3 {
   transform: rotate(5deg);
+  width: 200px;
 }
 
 .card-rotation-4 {
   transform: rotate(-5deg);
+  width: 200px;
 }
 
 .card-rotation-5 {
   transform: rotate(5deg);
+  width: 200px;
 }
 
 .card-rotation-6 {
   transform: rotate(-5deg);
+  width: 200px;
 }
 
 .card-rotation-7 {
   transform: rotate(5deg);
+  width: 200px;
 }
 
 .card-rotation-8 {
   transform: rotate(-5deg);
+  width: 200px;
 }
 
 .card-rotation-9 {
   transform: rotate(5deg);
+  width: 200px;
 }
 
 .card-rotation-10 {
   transform: rotate(-5deg);
+  width: 200px;
 }
 
 .card-rotation-11 {
   transform: rotate(5deg);
+  width: 200px;
 }
