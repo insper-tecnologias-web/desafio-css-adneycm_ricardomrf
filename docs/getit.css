@@ -153,10 +153,11 @@ body {
 
 .card {
   border-radius: 10%;
+  flex-direction: column;
   box-shadow: 0 0 0.5em #4c4c4c;
   padding: 10px;
-  margin: 10px;
-  width: 1%;
+  margin: 6px 5px 12px 5px;
+  width: 12%;
   height: 120px;
 }
 
@@ -181,80 +182,80 @@ p {
 
 .card-color-1 {
   background-color: #ead3a7;
-  width: 200px;
+  
 }
 
 .card-color-2 {
   background-color: #9de0f5;
-  width: 200px;
+  
 }
 
 .card-color-3 {
   background-color: #ef89ba;
-  width: 200px;
+  
 }
 
 .card-color-4 {
   background-color: #fae890;
-  width: 200px;
+  
 }
 
 .card-color-5 {
   background-color: #abe9c1;
-  width: 200px;
+  
 }
 
 .card-rotation-1 {
   transform: rotate(5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-2 {
   transform: rotate(-5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-3 {
   transform: rotate(5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-4 {
   transform: rotate(-5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-5 {
   transform: rotate(5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-6 {
   transform: rotate(-5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-7 {
   transform: rotate(5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-8 {
   transform: rotate(-5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-9 {
   transform: rotate(5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-10 {
   transform: rotate(-5deg);
-  width: 200px;
+  
 }
 
 .card-rotation-11 {
   transform: rotate(5deg);
-  width: 200px;
+  
 }
